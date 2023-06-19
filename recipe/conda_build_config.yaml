@@ -1,2 +1,5 @@
 c_compiler:   # [osx]
   - clang_bootstrap  # [osx]
+cross_target_platform:
+ - win-arm64
+ - win-64
