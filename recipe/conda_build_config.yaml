@@ -3,3 +3,9 @@ c_compiler:   # [osx]
 cross_target_platform:
  - win-arm64
  - win-64
+vcver:
+ - 17
+vsyear:
+ - 2022
+vsver:
+ - 17
