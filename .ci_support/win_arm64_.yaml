@@ -7,4 +7,4 @@ channel_targets:
 target_platform:
 - win-arm64
 vc:
-- '17'
+- '14'
