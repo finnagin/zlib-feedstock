@@ -4,8 +4,10 @@ cross_target_platform:
  - win-arm64
  - win-64
 vcver:
- - 17
+ - 14.3
 vsyear:
  - 2022
 vsver:
  - 17
+runtime_version:
+ - 14.36.32532
